@@ -1,0 +1,89 @@
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe.config
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.pdb
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.dll
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.dll
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\ZedGraph.dll
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.pdb
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.xml
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.pdb
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.xml
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\ZedGraph.xml
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Properties.Resources.resources
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.exe
+c:\users\aris\documents\visual studio 2015\Projects\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.pdb
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Main.resources
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\ShapeDetection.exe.config
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.exe
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.pdb
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\ShapeDetection.exe
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\ShapeDetection.pdb
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.World.dll
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\ZedGraph.dll
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.World.xml
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\ZedGraph.xml
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.Main.resources
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.Properties.Resources.resources
+C:\Users\Aris\Desktop\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\ShapeDetection.exe.config
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.exe
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.pdb
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\ShapeDetection.exe
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\ShapeDetection.pdb
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\ZedGraph.dll
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.World.pdb
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\Emgu.CV.World.xml
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\ZedGraph.xml
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.Main.resources
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.Properties.Resources.resources
+C:\Users\mkats\Desktop\ShapeMix\ShapeMix\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe.config
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.exe
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.pdb
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.pdb
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\ZedGraph.dll
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.pdb
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.xml
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\ZedGraph.xml
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Main.resources
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Properties.Resources.resources
+C:\Users\mkats\Desktop\ShapeDetection\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe.config
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.exe
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\ShapeDetection.pdb
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\ZedGraph.dll
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.pdb
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\Emgu.CV.World.xml
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\ZedGraph.xml
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Main.resources
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.Properties.Resources.resources
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.exe
+C:\Users\mkats\Desktop\ShapeDetection - Copy\ShapeDetection\ShapeDetection\obj\Debug\ShapeDetection.pdb
